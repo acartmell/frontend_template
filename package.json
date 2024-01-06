@@ -1,0 +1,15 @@
+{
+  "name": "frontend_template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "frontend_template",
+  "author": "Alex Cartmell",
+  "keywords": [
+    ""
+  ],
+  "scripts": {
+    "start": "node src/hello.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
