@@ -8,8 +8,11 @@
     ""
   ],
   "scripts": {
-    "start": "node src/hello.js"
+    "start": "node src/hello.js",
+    "prettier:check": "prettier --check .",
+    "prettier:fix": "prettier --write ."
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "prettier": "^3.1.1"
+  }
 }
