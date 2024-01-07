@@ -5,6 +5,7 @@ This is a template I use any time I want to create a new frontend web app. It in
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Husky](https://typicode.github.io/husky/)
 
 ### Local Development
 
