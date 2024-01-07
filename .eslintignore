@@ -1,0 +1,11 @@
+# dependencies
+/node_modules
+
+# config files
+.eslintrc.js
+
+# production
+/public
+
+# misc
+.DS_Store

@@ -14,6 +14,12 @@ nvm use
 npm install
 ```
 
+To lint code:
+
+```bash
+npm run lint
+```
+
 To format code:
 
 ```bash
